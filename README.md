@@ -3,7 +3,7 @@
 Un **Snake** moderne et stylé réalisé avec **Pygame**  
 Projet personnel avec un design soigné : glow, dégradé sur le corps, nourriture qui pulse, HUD semi-transparent, menus pause / game over, etc.
 
-https://github.com/[ton-username]/snake-de-nekena
+https://github.com/RalisataRelahy/snakygame.git
 
 ![Aperçu du jeu](https://via.placeholder.com/800x450/0c1428/00ff88?text=Snake+de+Nekena+%E2%9C%A8)  
 *(remplace cette ligne par une vraie capture d'écran une fois que tu en auras une)*
